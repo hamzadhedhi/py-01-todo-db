@@ -22,8 +22,8 @@ This project is a simple Todo application built using FastAPI. It allows you to 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/hamzadhedhi/01-todo-db.git
-   cd 01-todo-db
+   git clone https://github.com/hamzadhedhi/py-01-todo-db.git
+   cd py-01-todo-db
    ```
 
 2. **Install Poetry:**
